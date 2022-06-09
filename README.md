@@ -10,7 +10,7 @@
 
 The design is 100% the creation of [Leonardo De la cruz](https://www.instagram.com/delcruz_/)
 
-## Technologies 🦾
+## Technologies 🦾 and Assets 🖌️
 
 - [React JS](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)

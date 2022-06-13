@@ -6,7 +6,7 @@
   This web site is made for Colombian enterprise (really is a landing page)
 </div>
 
-## Link Web Site 🤑
+## Web Site Link 🤑
 
 [Broker House & Business Landing Page](https://landing-broker-house.netlify.app/)
 
